@@ -80,4 +80,3 @@ view_workouts_gui.py	GUI view of all workouts
 
 🙋‍♂️ Authors
 Adhisha
-Amaan Ahmad

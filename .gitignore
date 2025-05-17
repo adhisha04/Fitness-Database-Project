@@ -1,9 +1,8 @@
 __pycache__/
 *.py[cod]
-.env
-*.env
+*.log
 *.db
+*.env
 .DS_Store
 Thumbs.db
-.vscode/
-*.log
+*.png
